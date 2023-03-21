@@ -29,3 +29,5 @@ console.log(num == "3") // true
 console.log(num === "3")// false
 
 console.log(100000 + "10000")
+
+console.log("I am a console log")
